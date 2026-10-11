@@ -1,0 +1,4 @@
+
+# Large trained model files
+*.pth
+*.pt

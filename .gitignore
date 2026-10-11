@@ -2,3 +2,7 @@
 # Large trained model files
 *.pth
 *.pt
+
+*.pth
+*.pt
+/ais/clean_ais.csv

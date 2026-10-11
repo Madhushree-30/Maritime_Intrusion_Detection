@@ -1,0 +1,2 @@
+intrusion_type,severity,encounter_type,risk_level,risk_score,navigation,command
+NORMAL,NONE,SAFE,LOW,0,MAINTAIN_COURSE,MAINTAIN_COURSE

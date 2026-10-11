@@ -1,0 +1,2 @@
+intrusion_type,severity,encounter_type,risk_level,risk_score,navigation,command
+NORMAL,NONE,CROSSING_PORT,HIGH,65,TURN_RIGHT,TURN_RIGHT

@@ -1,0 +1,2 @@
+seedrones_image,radar_image,vessels_detected,frame,track_id,intrusion_type,severity,encounter_type,risk_level,risk_score,recommended_action,navigation_action,navigation_priority,command_action,command_urgency,command_status
+/kaggle/input/sds-dataset/compressed/images/val/10748.jpg,/content/drive/MyDrive/ResearchProject/dataset/images/val/P0132_2400_3200_9926_10726.png,9,9,12,NORMAL,NONE,CROSSING_PORT,HIGH,65,TURN_RIGHT,TURN_RIGHT,HIGH,TURN_RIGHT,HIGH,EXECUTE

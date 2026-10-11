@@ -1,0 +1,4 @@
+track_id,target_track_id,distance_km,target_bearing_deg,relative_bearing_deg,heading_difference_deg,encounter_type,risk_level,risk_score,recommended_action
+1,2.0,0.068966802614327,5.676731398891377,5.676731398891377,0.0,UNCERTAIN,HIGH,65,SLOW_DOWN
+2,1.0,0.068966802614327,185.676772238881,185.676772238881,0.0,OVERTAKING,HIGH,65,SLOW_DOWN
+3,,,,,,SAFE,LOW,0,MAINTAIN_COURSE

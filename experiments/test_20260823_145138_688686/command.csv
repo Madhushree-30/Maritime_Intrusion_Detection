@@ -1,0 +1,4 @@
+track_id,target_track_id,distance_km,target_bearing_deg,relative_bearing_deg,heading_difference_deg,encounter_type,risk_level,risk_score,recommended_action,navigation_action,navigation_priority,navigation_reason,command_alert,command_action,command_urgency,command_status,command_reason
+1,2.0,0.0689668081088772,5.676732788965524,5.676732788965524,0.0,UNCERTAIN,HIGH,65,SLOW_DOWN,SLOW_DOWN,HIGH,High-risk vessel encounter detected.,True,SLOW_DOWN,HIGH,EXECUTE,Encounter risk requires speed reduction.
+2,1.0,0.0689668081088772,185.67677362896808,185.67677362896808,0.0,OVERTAKING,HIGH,65,SLOW_DOWN,SLOW_DOWN,HIGH,High-risk vessel encounter detected.,True,SLOW_DOWN,HIGH,EXECUTE,Encounter risk requires speed reduction.
+3,,,,,,SAFE,LOW,0,MAINTAIN_COURSE,CONTINUE,NONE,No significant navigation threat detected.,False,MAINTAIN_COURSE,NONE,CONTINUE,No significant navigation threat detected.

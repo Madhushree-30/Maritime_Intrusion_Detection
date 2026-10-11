@@ -1,0 +1,8 @@
+track_id,target_track_id,distance_km,target_bearing_deg,relative_bearing_deg,heading_difference_deg,encounter_type,risk_level,risk_score,recommended_action,navigation_action,navigation_priority,navigation_reason
+1,2,0.068966802614327,5.676731398891377,5.676731398891377,0.0,UNCERTAIN,HIGH,65,SLOW_DOWN,SLOW_DOWN,HIGH,High-risk vessel encounter detected.
+2,1,0.068966802614327,185.676772238881,185.676772238881,0.0,OVERTAKING,HIGH,65,SLOW_DOWN,SLOW_DOWN,HIGH,High-risk vessel encounter detected.
+3,6,0.143082164415071,103.77511574240492,103.77511574240492,0.0,CROSSING_STARBOARD,MODERATE,40,TURN_LEFT,TURN_LEFT,MEDIUM,Moderate vessel encounter risk detected. Turn left.
+4,5,0.0118738043357897,65.21422277993446,65.21422277993446,0.0,CROSSING_STARBOARD,CRITICAL,95,TURN_LEFT,ALERT_AND_TURN_LEFT,CRITICAL,Critical collision-risk encounter detected. Immediate left turn required.
+5,4,0.0118738043357897,245.21428731395625,245.21428731395625,0.0,CROSSING_PORT,CRITICAL,95,TURN_RIGHT,ALERT_AND_TURN_RIGHT,CRITICAL,Critical collision-risk encounter detected. Immediate right turn required.
+6,7,0.0045498473850288,94.8946310391164,94.8946310391164,0.0,CROSSING_STARBOARD,CRITICAL,95,TURN_LEFT,ALERT_AND_TURN_LEFT,CRITICAL,Critical collision-risk encounter detected. Immediate left turn required.
+7,6,0.0045498473850288,274.8946581804853,274.8946581804853,0.0,CROSSING_PORT,CRITICAL,95,TURN_RIGHT,ALERT_AND_TURN_RIGHT,CRITICAL,Critical collision-risk encounter detected. Immediate right turn required.
